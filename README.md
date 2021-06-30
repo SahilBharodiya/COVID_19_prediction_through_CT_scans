@@ -6,7 +6,7 @@ These data have been collected from real patients in hospitals from Sao Paulo, B
 Although code is given in both .ipynb and .py format but I suggest .ipynb to all enthusiasist.
 
 
-# Model with lesser runtime and code with slightly improved performance (uloaded on 30th Jue 2021)
+# Model with lesser runtime and code with slightly improved performance (uploaded on 30th Jue 2021)
 https://github.com/SahilBharodiya/COVID_19_prediction_through_CT_scans/blob/main/Covid_19_Prediction_through_CT_scans.ipynb
 download data csv file from https://www.kaggle.com/sahilbharodiya/covid19-ctscans-csv-data
 I also tested this model on real data and it works pretty well
